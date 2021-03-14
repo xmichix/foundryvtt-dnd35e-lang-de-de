@@ -1,0 +1,33 @@
+{
+    "name": "FoundryVTT-dnd35e-de",
+    "title": "3.5e Translation German",
+    "description": "Add German language to dnd3.5e Rughalt system for FoundryVTT.",
+    "version": "0.2.4",
+    "minimumCoreVersion" : "0.7.8",
+    "compatibleCoreVersion":"0.7.9",
+  
+    "dependencies": [{
+      "name": "babele",
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+      "version": "1.24"
+    }],
+  
+    "author": "GeronNerd",
+    "esmodules": ["babele-register.js"],
+    "scripts": [],
+    "styles": [
+      "./style.css"
+    ],
+    "packs": [],
+  
+    "languages": [{
+      "lang": "de",
+      "name": "German",
+      "path": "de.json"
+    }],
+  
+    "url": "https://github.com/xmichix/foundryvtt-dnd35e-lang-de-de",
+    "manifest": "https://raw.githubusercontent.com/elfosardo/foundryvtt-dnd35e-lang-it-it/main/it-IT/module.json",
+    "download": "https://github.com/elfosardo/foundryvtt-dnd35e-lang-it-it/releases/download/0.2.4/dnd35e-it-IT.zip"
+
+}
