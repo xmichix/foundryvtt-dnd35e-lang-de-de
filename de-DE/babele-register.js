@@ -3,7 +3,7 @@ Hooks.once('init', () => {
 
 	if(typeof Babele !== 'undefined') {
 		Babele.get().register({
-			module: 'FoundryVTT-dnd35e-de',
+			module: 'dnd35e-de-DE',
 			lang: 'de',
 			dir: 'compendium'
 		});

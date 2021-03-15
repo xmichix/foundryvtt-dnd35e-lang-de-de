@@ -1,11 +1,8 @@
-# foundryvtt-dnd35e-lang-it-it
-Localizzazione italiana per modulo di D&amp;D 3.5e per foundry VTT di Rughalt
+# foundryvtt-dnd35e-lang-de-de
+Lokalisierung Deutsch für das Module  D&amp;D 3.5e für foundry VTT von Rughalt
 
-Basato su https://gitlab.com/riccisi/foundryvtt-babele/
-
-Traduzioni realizzate da me (elfosardo) direttamente dal modulo di
+Basiert auf https://gitlab.com/riccisi/foundryvtt-babele/
 Rughalt https://github.com/Rughalt/D35E
 
-Alcuni testi tratti o tradotti da:
-* http://www.editorifolli.it/gdr/d20system/ 
-* https://www.d20srd.org/
+Übersetzungen wurden von mir eingefügt
+Die meisten Texte wurden vom Spielerhandbuch Grundregeln übersetzt.
