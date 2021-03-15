@@ -2,7 +2,7 @@
     "name": "FoundryVTT-dnd35e-de",
     "title": "3.5e Translation German",
     "description": "Add German language to dnd3.5e Rughalt system for FoundryVTT.",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "minimumCoreVersion" : "0.7.8",
     "compatibleCoreVersion":"0.7.9",
   
@@ -27,7 +27,7 @@
     }],
   
     "url": "https://github.com/xmichix/foundryvtt-dnd35e-lang-de-de",
-    "manifest": "https://github.com/xmichix/foundryvtt-dnd35e-lang-de-de/releases/tag/1.0.0//module.json",
-    "download": "https://github.com/xmichix/foundryvtt-dnd35e-lang-de-de/releases/tag/1.0.0/dnd35e-de-DE.zip"
+    "manifest": "https://github.com/xmichix/foundryvtt-dnd35e-lang-de-de/releases/download/2.0.0/module.json",
+    "download": "https://github.com/xmichix/foundryvtt-dnd35e-lang-de-de/releases/download/2.0.0/dnd35e-de-DE.zip"
 
 }
