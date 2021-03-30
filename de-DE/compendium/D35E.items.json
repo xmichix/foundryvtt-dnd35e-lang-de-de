@@ -3,13 +3,13 @@
 	"entries": [
 		{
 			"id": "Acid",
-			"name": "Acid",
-			"description": "<p>You can throw a flask of acid as a splash weapon (see Throw Splash Weapon, page 158). Treat this attack as a ranged touch attack with a range increment of 10 feet. A direct hit deals 1d6 points of acid damage. Every creature within 5 feet of the point where the acid hits takes 1 point of acid damage from the splash.</p>"
+			"name": "Säure",
+			"description": "<p>Sie können ein Fläschchen Säure als Waffe mit Flächenwirkung s.S. 192) werfen. Dieser Angriff wird als Berührungsangriff auf Entfernung mit einer Grundweite von 3 m gehandhabt. Ein direkter Treffer verursacht 1W6 Punkte Säureschaden. Jede Kreatur im Umkreis von 1,50 m um den Punkt, an dem das Fäschchen auftrifft, erleidet 1 Punkt Säureschaden durch Spritzer.</p>"
 		},
 		{
 			"id": "Alchemist’s fire",
-			"name": "Alchemist’s fire",
-			"description": "<p>Alchemist&rsquo;s fire is sticky, adhesive substance that ignites when exposed to air. You can throw a flask of alchemist&rsquo;s fire as a splash weapon (see Throw Splash Weapon, page 158). Treat this attack as a ranged touch attack with a range increment of 10 feet. A direct hit deals 1d6 points of fire damage. Every creature within 5 feet of the point where the flask hits takes 1 point of fire damage from the splash. On the round following a direct hit, the target takes an additional 1d6 points of damage. If desired, the target can use a full-round action to attempt to extinguish the flames before taking this additional damage. Extinguishing the flames requires a DC 15 Reflex save. Rolling on the ground provides the target a +2 bonus on the save. Leaping into a lake or magically extinguishing the flames automatically smothers the fire.</p>"
+			"name": "Alchemistenfeuer",
+			"description": "<p>Alchemistenfeuer ist eine klebrige, zähflüssige Substanz, die sich bei Kontakt mit Luft entzündet. Sie können ein Fläschchen Alchimistenfeuer als Waffe mit Flächenwirkung(s.S. 192) werfen. Dieser Angriff wird als Berührungsangriff auf Entfernung mit einer Grundreichweite von 3 m gehandhabt. Ein direkter Treffer verursacht 1W6 Punkte Feuerschaden. Jede Kreatur im Umkreis von 1,50 m um den Punkt, an dem das Fläschchen auftritt erleidet 1 Punkt Feuerschaden durch Spritzer. In der Runde nach dem direkten Treffer erleidet das Ziel zusätzliche 1W6 Schadenspunkte.</p>"
 		},
 		{
 			"id": "Alchemist’s lab",

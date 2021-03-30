@@ -1,10 +1,11 @@
+
 {
 	"label": "Class Abilities",
 	"entries": [
 		{
 			"id": "Abundant Step",
-			"name": "Abundant Step",
-			"description": "<p>A monk can slip magically between spaces, as if using the spell&nbsp;dimension door,&nbsp;once per day. Her caster level for this effect is one-half her monk level (rounded down).</p>"
+			"name": "Weiter Schritt",
+			"description": "<p>Ab der 12. Stufe kann der Mönch täglich von einem Ort an den anderen \"schlüpfen\", als wende er den Zauber Dimensionstür an. Seine Zauberstufe für diesen Effekt entspricht der Hälfte seiner Klasse als Mönch.</p>"
 		},
 		{
 			"id": "Animal Companion",

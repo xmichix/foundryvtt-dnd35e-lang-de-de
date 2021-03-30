@@ -1,95 +1,95 @@
 {
-	"label": "Armor and Shields",
+	"label": "Rüstung und Schild",
 	"entries": [
 		{
 			"id": "Banded Mail",
 			"name": "Bänderpanzer",
-			"description": "<p>Diese Rüstung besteht aus übernanderliegenden Metallstreifen, die auf ein Grundlage as Leder und Kettenringen genäht werden. Sie bedecken die verwundbaren Bereiche, während das Leder und die Kettenringe die Gelenke schützen und für Bewegungsfreiheit sorgen. Halterungen und Riemen verteilen das Gewicht gleichmäßig. Zu der Rüstung gehören Panzerhandschuhe.</p>"
+			"description": "<p>Diese Rüstung besteht aus übereinanderliegenden Metallstreifen, die auf ein Grundlage as Leder und Kettenringen genäht werden. Sie bedecken die verwundbaren Bereiche, während das Leder und die Kettenringe die Gelenke schützen und für Bewegungsfreiheit sorgen. Halterungen und Riemen verteilen das Gewicht gleichmäßig. Zu der Rüstung gehören Panzerhandschuhe.</p>"
 		},
 		{
 			"id": "Breastplate",
-			"name": "Breastplate",
-			"description": "<p>A breastplate covers your front and your back. It comes with a helmet and greaves (plates to cover your lower legs). A light suit or skirt of studded leather beneath the breastplate protects your limbs without restricting movement much.</p>"
+			"name": "Brustplatte",
+			"description": "<p>Eine Brustplatte bedeckt Brust und Rücken. Dazu gehören ein Helm und entsprechende Beinschienen (Platten, die die Unterschenkel bedecken). Eine leichte Hose oder ein Rock aus beschlagenem Leder schützt Ihre Gliedmaßen, ohne Ihre Bewegungsfreiheit zu sehr einzuschränken.</p>"
 		},
 		{
 			"id": "Buckler",
-			"name": "Buckler",
-			"description": "<p>This small metal shield is worn strapped to your forearm. You can use a bow or crossbow without penalty while carrying it. You can also use your shield arm to wield a weapon (whether you are using an off-hand weapon or using your off hand to help wield a two-handed weapon), but you take a –1 penalty on attack rolls while doing so because of the extra weight on your arm. This penalty stacks with those that may apply for fighting with your off hand and for fighting with two weapons. In any case, if you use a weapon in your off hand, you don’t get the buckler’s AC bonus for the rest of the round.</p>"
+			"name": "Tratsche",
+			"description": "<p>Dieses kleine Schild wird am Unterarm befestigt. Während Sie eine Tartsche tragen, können Sie eine Armbrust oder einen Bogen ohne Malus einsetzen, eine Waffe führen (egal, ob Sie eine Waffe in Ihrer Zweithand führen oder Ihre Zweithand dazu einsetzen, eine Waffe beidhändig zu führen), aber aufgrund des zusätzlichen Gewichts an Ihrem Arm erleiden Sie dabei einen Malus von -1 aif Ihre Angriffswürfe. Dieser Malus addiert sich zu denen, die üblicherweise anfallen, wenn Sie mit Ihrer Zweithand eine Waffe führen und mit denen für den Kampf mit zwei Waffen. Auf jeden Fall erhalten Sie für den Rest der Runde den Schildbonus der Tartsche nicht auf Ihre RK, wenn Sie mit der Zweithand eine Waffe einsetzen. Mit einer Tartsche können Sie keinen Schildstoß ausführen.</p>"
 		},
 		{
 			"id": "Chain Shirt",
-			"name": "Chain Shirt",
-			"description": "<p>A chain shirt protects your torso while leaving your limbs free and mobile. It includes a layer of quilted fabric worn underneath to prevent chafing and to cushion the impact of blows. A chain shirt comes with a steel cap.</p>"
+			"name": "Kettenhemd",
+			"description": "<p>Ein Kettenhemd schützt Ihren Torso, läßt Ihre Gliedmaßen jedoch frei und beweglich. Es enthält auch eine darunterliegende Lage wattierten Stoffes, um Abschürfungen zu vermeiden und die Wucht von Treffern zu verringern. Zum Kettenhemd gehört eine Stahlkappe.</p>"
 		},
 		{
 			"id": "Chainmail",
-			"name": "Chainmail",
-			"description": "<p>This armor is made of interlocking metal rings. It includes a layer of quilted fabric worn underneath to prevent chafing and to cushion the impact of blows. Several layers of mail are hung over vital areas. Most of the armor’s weight hangs from the shoulders, making chainmail uncomfortable to wear for long periods of time. The suit includes gauntlets.</p>"
+			"name": "Kettenpanzer",
+			"description": "<p>Diese Rüstung besteht aus miteinander vernieteten Metallringen. Sie enthält auch eine darunterliegende Lage wattierten Stoffes, um Abschürfungen zu vermeiden und die Wucht von Treffern zu verringern. Über lebenswichtigen Bereichen hängen mehrere Lagen des Panzers. Der größte Teil des Gewichts der Rüstung zerrt an den Schultern, wodurch diese Rüstung sehr unbequem über einen längeren Zeitraum zu tragen ist. Zu der Rüstung gehören Panzerhandschuhe.</p>"
 		},
 		{
 			"id": "Full Plate",
-			"name": "Full Plate",
-			"description": "<p>This armor consists of shaped and fitted metal plates riveted and interlocked to cover the entire body. The suit includes gauntlets, heavy leather boots, a visored helmet, and a thick layer of padding that is worn underneath the armor. Buckles and straps distribute the weight over the body, so full plate hampers movement less than splint mail even though splint is lighter. Each suit of full plate must be individually fitted to its owner by a master armorsmith, although a captured suit can be resized to fit a new owner at a cost of 200 to 800 (2d4 &times; 100) gold pieces. Full plate is also known as field plate.</p>"
+			"name": "Ritterrüstung",
+			"description": "<p>Diese Rüstung besteht aus geformten und angepaßten Metallplatten, die so miteinander verbunden und übereinander gelegt werden, ddaß sie den ganzen Körper bedecken. Zu dieser Rüstung gehören Panzerhandschuhe, schwere Lederstiefel, ein Helm mit Visier und eine Lage wattierten Stoffs, der unter der Rüstung getragen wird. Halterungen und Riemen verteilen das Gewicht über den Körper, daher schränkt eine Ritterrüstung die Bewegung weniger ein als ein Schienenpanzer, obwohl dieser leichter ist. Jede Ritterrüstung kann jedoch für einen Preis vonn 200-800 (2W4 x100) GM an einen neuen Besitzer angepaßt werden. Ritterrüstungen heißen auch Feldharnische.</p>"
 		},
 		{
 			"id": "Half-Plate",
-			"name": "Half-Plate",
-			"description": "<p>This armor is a combination of chainmail with metal plates (breastplate, epaulettes, elbow guards, gauntlets, tasses, and greaves) covering vital areas. Buckles and straps hold the whole suit together and distribute the weight, but the armor still hangs more loosely than full plate. The suit includes gauntlets.</p>"
+			"name": "Plattenpanzer",
+			"description": "<p>Diese Rüstung ist eine Kombination aus Kettenpanzer und Metallplatten (Brustplatte, Schulterstücke, Ellbogenschützer, Panmzerhandschuhen und Arm- und Beinschienen), die lebenswichtige Bereiche bedecken. Halterungen und Riemen halten die Rüstung zusammen und verteilen das Gewicht, aber die Rüstung sitzt dennoch lockerer als eine Ritterrüstung. Zu dieser Rüstung gehören Panzerhandschuhe.</p>"
 		},
 		{
 			"id": "Heavy Steel Shield",
-			"name": "Heavy Steel Shield",
-			"description": "<p>You strap a shield to your forearm and grip it with your hand. A heavy shield is so heavy that you can’t use your shield hand for anything else.</p>\n<p><strong>Wooden or Steel:</strong> Wooden and steel shields offer the same basic protection, though they respond differently to special attacks (such as warp wood and heat metal).</p>\n<p><strong>Shield Bash Attacks:</strong> You can bash an opponent with a heavy shield, using it as an off-hand weapon. See Table 7–5: Weapons for the damage dealt by a shield bash. Used this way, a heavy shield is a martial bludgeoning weapon. For the purpose of penalties on attack rolls, treat a heavy shield as a one-handed weapon. If you use your shield as a weapon, you lose its AC bonus until your next action (usually until the next round). An enhancement bonus on a shield does not improve the effectiveness of a shield bash made with it, but the shield can be made into a magic weapon in its own right.</p>"
+			"name": "Schwerer Stahlschild",
+			"description": "<p>Ein Schild wird am Unterarm befestigt und mit der Hand festgehalten. Ein schwerer Schild ist so schwer, daß Sie Ihre Schildhand nicht anderweitig einsetzen können.</p>\n<p><strong>Holz oder Stahl:</strong> Holz- und Stahlschilde bieten im Prinzip denselben Schutz, reagieren aber unterschiedlich auf besondere Angriffe (wie etwa Holz krümmen und Metal erhitzen).</p>\n<p><strong>Schildstoß:</strong> Sie können mit einem schweren Schild einen Schildstoß gegen einen Gegner durchführen, wobei Sie den Schild als Waffe in Ihrer Zweithand einsetzen. Der Schaden durch einen Schildstoß steht in Tabelle 7-5: Waffen. Ein auf diese Weise eingesetzter schwerer Schild zählt als Kriegswaffe, die Wuchtschaden verursacht. Zur Ermittlung von Maili auf den Angriffswurf zählt ein schwerer Schild als Einhandwaffe. Wenn Sie Ihren Schild als Waffe einsetzen, verlieren Sie seinen Schildbonus auf Ihre RK bis zu Ihrer nächsten Aktion (typischerweise bis zur nächsten Runde). Ein Verbesserungsbonus des Schildes erhöht die Wirksamkeit eines Schildstoßes nicht, aber der Schild selbst kann zu einer magischen Waffe verzaubert werden.</p>"
 		},
 		{
 			"id": "Heavy Wooden Shield",
-			"name": "Heavy Wooden Shield",
-			"description": "<p>You strap a shield to your forearm and grip it with your hand. A heavy shield is so heavy that you can’t use your shield hand for anything else.</p>\n<p><strong>Wooden or Steel:</strong>&nbsp;Wooden and steel shields offer the same basic protection, though they respond differently to special attacks (such as warp wood and heat metal).</p>\n<p><strong>Shield Bash Attacks:</strong>&nbsp;You can bash an opponent with a heavy shield, using it as an off-hand weapon. See Table 7–5: Weapons for the damage dealt by a shield bash. Used this way, a heavy shield is a martial bludgeoning weapon. For the purpose of penalties on attack rolls, treat a heavy shield as a one-handed weapon. If you use your shield as a weapon, you lose its AC bonus until your next action (usually until the next round). An enhancement bonus on a shield does not improve the effectiveness of a shield bash made with it, but the shield can be made into a magic weapon in its own right.</p>"
+			"name": "Schwerer Holzschild",
+			"description": "<p>Ein Schild wird am Unterarm befestigt und mit der Hand festgehalten. Ein schwerer Schild ist so schwer, daß Sie Ihre Schildhand nicht anderweitig einsetzen können.</p>\n<p><strong>Holz oder Stahl:</strong> Holz- und Stahlschilde bieten im Prinzip denselben Schutz, reagieren aber unterschiedlich auf besondere Angriffe (wie etwa Holz krümmen und Metal erhitzen).</p>\n<p><strong>Schildstoß:</strong> Sie können mit einem schweren Schild einen Schildstoß gegen einen Gegner durchführen, wobei Sie den Schild als Waffe in Ihrer Zweithand einsetzen. Der Schaden durch einen Schildstoß steht in Tabelle 7-5: Waffen. Ein auf diese Weise eingesetzter schwerer Schild zählt als Kriegswaffe, die Wuchtschaden verursacht. Zur Ermittlung von Maili auf den Angriffswurf zählt ein schwerer Schild als Einhandwaffe. Wenn Sie Ihren Schild als Waffe einsetzen, verlieren Sie seinen Schildbonus auf Ihre RK bis zu Ihrer nächsten Aktion (typischerweise bis zur nächsten Runde). Ein Verbesserungsbonus des Schildes erhöht die Wirksamkeit eines Schildstoßes nicht, aber der Schild selbst kann zu einer magischen Waffe verzaubert werden.</p>"
 		},
 		{
 			"id": "Hide Armor",
-			"name": "Hide Armor",
-			"description": "<p>This armor is prepared from multiple layers of leather and animal hides. It is stiff and hard to move in. Druids, who wear only nonmetallic armor, favor hide.</p>"
+			"name": "Fellrüstung",
+			"description": "<p>Diese Rüstung besteht aus mehreren Schichten Leder und Tierhäuten. Sie ist steif und wenig flexibel. Druiden bevorzugen Fellrüstungen, da sie keine Metallrüstungen tragen.</p>"
 		},
 		{
 			"id": "Leather Armor",
-			"name": "Leather Armor",
-			"description": "<p>The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by boiling in oil. The rest of the armor is made of softer and more flexible leather.</p>"
+			"name": "Lederrüstung",
+			"description": "<p>Die Brustplatte und der Schulterschutz dieser Rüstung bestehen aus Leder, das durch Kochen in Öl gehärtet wurde. Der Rest der Rüstung besteht aus weicherem, biegsamerem Leder.</p>"
 		},
 		{
 			"id": "Light Steel Shield",
-			"name": "Light Steel Shield",
-			"description": "<p>You strap a shield to your forearm and grip it with your hand. A light shield’s weight lets you carry other items in that hand, although you cannot use weapons with it.</p>\n<p><strong>Wooden or Steel:</strong>&nbsp;Wooden and steel shields offer the same basic protection, though they respond differently to special attacks (such as warp wood and heat metal).</p>\n<p><strong>Shield Bash Attacks:</strong>&nbsp;You can bash an opponent with a light shield,&nbsp;using it as an off-hand weapon. See Table 7–5: Weapons for the&nbsp;damage dealt by a shield bash. Used this way, a light shield is a&nbsp;martial bludgeoning weapon. For the purpose of penalties on attack&nbsp;rolls, treat a light shield as a light weapon. If you use your shield as a&nbsp;weapon, you lose its AC bonus until your next action (usually until&nbsp;the next round). An enhancement bonus on a shield does not&nbsp;improve the effectiveness of a shield bash made with it, but theshield can be made into a magic weapon in its own right.</p>"
+			"name": "Leichter Stahlschild",
+			"description": "<p>Ein Schild wird am Unterarm befestigt und mit der Hand festgehalten. Das Gewicht eines leichten Schildes erlaubt Ihnen, in der Schildhand noch Gegenstände zu tragen, wobei Sie mit ihr keine Waffen einsetzen können.</p>\n<p><strong>Holz oder Stahl:</strong> Holz- und Stahlschilde bieten im Prinzip denselben Schutz, reagieren aber unterschiedlich auf besondere Angriffe (wie etwa Holz krümmen und Metal erhitzen).</p>\n<p><strong>Schildstoß:</strong> Sie können mit einem leichten Schild einen Schildstoß gegen einen Gegner durchführen, wobei sie den Schild als Waffe in Ihrer Zweithand einsetzen. Der Schaden durch einen Schildstoß steht in Tabelle 7-5: Waffen. Ein auf diese Weise eingesetzter leichter Schild zählt als Kriegswaffe, die Wuchtschaden verursacht. Zur Ermittlung der Mali auf den Angriffswurf zählt ein leichter Schild als leichte Waffe. Wenn Sie Ihren Schild als Waffe einsetzen, verlieren Sie seinen Schildbonus auf Ihre RK bis zu Ihrer nächsten Aktion (typischerweise bis zur nächsten Runde). Ein Verbesserungsbonus des Schildes erhöht die Wirksamkeit eines Schildstoßes nicht, aber der Schild selbst kann zur magischen Waffe verzaubert werden.</p>"
 		},
 		{
 			"id": "Light Wooden Shield",
-			"name": "Light Wooden Shield",
-			"description": "<p>You strap a shield to your forearm and grip it with your hand. A light shield’s weight lets you carry other items in that hand, although you cannot use weapons with it.</p>\n<p><strong>Wooden or Steel:</strong> Wooden and steel shields offer the same basic protection, though they respond differently to special attacks (such as warp wood and heat metal).</p>\n<p><strong>Shield Bash Attacks:</strong> You can bash an opponent with a light shield, using it as an off-hand weapon. See Table 7–5: Weapons for the damage dealt by a shield bash. Used this way, a light shield is a martial bludgeoning weapon. For the purpose of penalties on attack rolls, treat a light shield as a light weapon. If you use your shield as a weapon, you lose its AC bonus until your next action (usually until the next round). An enhancement bonus on a shield does not improve the effectiveness of a shield bash made with it, but theshield can be made into a magic weapon in its own right.</p>"
+			"name": "Leichter Holzschild",
+			"description": "<p>Ein Schild wird am Unterarm befestigt und mit der Hand festgehalten. Das Gewicht eines leichten Schildes erlaubt Ihnen, in der Schildhand noch Gegenstände zu tragen, wobei Sie mit ihr keine Waffen einsetzen können.</p>\n<p><strong>Holz oder Stahl:</strong> Holz- und Stahlschilde bieten im Prinzip denselben Schutz, reagieren aber unterschiedlich auf besondere Angriffe (wie etwa Holz krümmen und Metal erhitzen).</p>\n<p><strong>Schildstoß:</strong> Sie können mit einem leichten Schild einen Schildstoß gegen einen Gegner durchführen, wobei sie den Schild als Waffe in Ihrer Zweithand einsetzen. Der Schaden durch einen Schildstoß steht in Tabelle 7-5: Waffen. Ein auf diese Weise eingesetzter leichter Schild zählt als Kriegswaffe, die Wuchtschaden verursacht. Zur Ermittlung der Mali auf den Angriffswurf zählt ein leichter Schild als leichte Waffe. Wenn Sie Ihren Schild als Waffe einsetzen, verlieren Sie seinen Schildbonus auf Ihre RK bis zu Ihrer nächsten Aktion (typischerweise bis zur nächsten Runde). Ein Verbesserungsbonus des Schildes erhöht die Wirksamkeit eines Schildstoßes nicht, aber der Schild selbst kann zur magischen Waffe verzaubert werden.</p>"
 		},
 		{
 			"id": "Padded Armor",
-			"name": "Padded Armor",
-			"description": "<p>Padded armor features quilted layers of cloth and batting. It gets hot quickly and can become foul with sweat, grime, lice, and fleas.</p>"
+			"name": "Waffenrock",
+			"description": "<p>Ein Waffenrock besteht aus gepolsterten Stoffschichten und Wattierungen. In ihm wird es schnell sehr warm, und er kann durch Schweiß, Dreck, Läuse und Föhe verschmutzt werden.</p>"
 		},
 		{
 			"id": "Scale Mail",
 			"name": "Scale Mail",
-			"description": "<p>This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.</p>"
+			"description": "<p>Diese Rüstung besteht aus einem Überwurf und einem Beinkleid (und eventuell einem seperaten Rock) aus Leder, das von einander überlappenden Metallschuppen bedeckt ist, ähnlich dem Schuppenkleid eines Fisches. Zu dieser Rüstung gehören Panzerhandschuhe.</p>"
 		},
 		{
 			"id": "Splint Mail",
-			"name": "Splint Mail",
-			"description": "<p>This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chainmail protects the joints. The suit includes gauntlets.</p>"
+			"name": "Schienenpanzer",
+			"description": "<p>Diese Rüstung besteht aus schmalen, vertikalen Metallstreifen, die übereinanderliegend auf Leder befestigt sind, das man über wattiertem Stoff trägt. Die Gelenke werden durch flexibles Kettengeflecht geschützt. Zu dieser Rüstung gehören Panzerhandschuhe.</p>"
 		},
 		{
 			"id": "Studded Leather Armor",
-			"name": "Studded Leather Armor",
-			"description": "<p>This armor is made from tough but flexible leather (not hardened leather as with normal leather armor) reinforced with close-set metal rivets.</p>"
+			"name": "Beschlagene Lederrüstung",
+			"description": "<p>Diese Rüstung besteht aus hartem, aber flexiblen Leder ( nicht gehärtetem Leder wie bei einer normalen Lederrüstung)m das durch eng aneinandergesetzten Metallnieten verstärkt wird.</p>"
 		},
 		{
 			"id": "Tower Shield",
-			"name": "Tower Shield",
-			"description": "<p>This massive wooden shield is nearly as tall as you are. In most situations, it provides the indicated shield bonus to your AC. However, you can instead use it as total cover, though you must give up your attacks to do so. The shield does not, however, provide&nbsp;cover against targeted spells; a spellcaster can cast a spell on you by targeting the shield you are holding. You cannot bash with a tower shield, nor can you use your shield hand for anything else. When employing a tower shield in combat, you take a &ndash;2 penalty on attack rolls because of the shield&rsquo;s encumbrance.</p>"
+			"name": "Turmschild",
+			"description": "<p>Dieser massive Holzschild ist fast so groß wie Sie selbst. In den meisten Fällen verleiht er Ihnen den angegebenen Schildbonus auf Ihre RK. Sie können Ihn jedoch so einsetzen, daß er Ihnen vollständige Deckung gibt. Dabei müssen Sie allerdings auf Ihre Angriffe verzichten. Der Schild verleiht Ihnen jedoch keine Deckung gegen gezielte Zauber; ein Magieanwender kann einen Zauber gegen Sie wirken, indem er auf Ihren Schild zielt. Mite einem Trumschild können Sie keinen Schildstoß ausführen. Sie können zudem Ihre Schildhand nicht für irgend etwas anderes einsetzen. Wenn Sie einen Turmschild im Kampf einsetzen, erleiden Sie aufgrund der Belastung einen Malus von -2 auf Angriffwürfe.</p>"
 		}
 	]
 }
